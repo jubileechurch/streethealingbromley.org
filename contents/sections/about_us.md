@@ -1,6 +1,6 @@
 ---
 title: About
-template: section.jade
+id: about_us
 ---
 
 ## About Healing on the Streets

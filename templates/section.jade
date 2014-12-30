@@ -1,4 +1,5 @@
-section#license.license.section
-  .container
-    .license-inner
-      !=contents.sections["about_us.md"].html
+mixin section(obj)
+  section.license.section(id = obj.metadata.id)
+    .container
+     .license-inner
+        !=obj.html

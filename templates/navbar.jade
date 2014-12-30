@@ -11,13 +11,7 @@ header#header.header
         ul.nav.navbar-nav
           li.active.nav-item.sr-only
             a.scrollto(href='#promo') Home
-          li.nav-item
-            a.scrollto(href='#about') Hi
-          li.nav-item
-            a.scrollto(href='#features') Contact Us
-          li.nav-item
-            a.scrollto(href='#docs') Docs
-          li.nav-item
-            a.scrollto(href='#license') License
-          li.nav-item.last
-            a.scrollto(href='#contact') Contact
+          each section in contents.sections
+            if (section.title != "Untitled")
+              li.nav-item
+                a.scrollto(href='#'+section.metadata.id)=section.title
