@@ -1,0 +1,12 @@
+{
+  "locals": {
+    "title": "Healing on the Streets Bromley"
+  },
+  "plugins": [
+    "./node_modules/wintersmith-handlebars/wintersmith-handlebars.coffee",
+    "wintersmith-livereload"
+  ],
+  "require": {
+  	"_": "underscore"
+  }
+}
