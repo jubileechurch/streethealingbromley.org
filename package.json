@@ -12,6 +12,7 @@
     "grunt-cli": "^0.1.13",
     "grunt-wintersmith": "0.0.2",
     "wintersmith": "^2.1.0",
+    "wintersmith-less": "^0.2.3",
     "wintersmith-livereload": "^0.1.1"
   }
 }
