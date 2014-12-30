@@ -83,6 +83,7 @@ pre code {
 .header {
     padding: 10px 0;
     background: @color;
+    .opacity(0.8);
     color: #fff;
     position: fixed;
     width: 100%;
@@ -139,7 +140,7 @@ pre code {
                     }
                 }
                 a {
-                    color: darken(@color, 20%);
+                    color: lighten(@color, 60%);
                     .transition (none);
                     font-size: 14px;
                     padding: 15px 10px;
@@ -173,14 +174,30 @@ pre code {
 /* ======= Promo Section ======= */
 .promo {
     background: @color;
+    background-image: url("/images/IMG_0598.JPG");
+    background-size: cover;
+    background-position: center;
     color: #fff;
-    padding-top: 150px;
     .title {
         font-size: 98px;
         color: darken(@color, 30%);
         margin-top: 0;
+        text-shadow:
+            -1px -1px 0 lighten(@color, 10%),
+             1px -1px 0 lighten(@color, 10%),
+            -1px  1px 0 lighten(@color, 10%),
+             1px  1px 0 lighten(@color, 10%);  
         .highlight {
             color: @color-2;
+        }
+        .lowlight {
+            font-size: 70%;
+            color: @color-2;
+            text-shadow:
+                -1px -1px 0 lighten(@color-2, 10%),
+                 1px -1px 0 lighten(@color-2, 10%),
+                -1px  1px 0 lighten(@color-2, 10%),
+                 1px  1px 0 lighten(@color-2, 10%);  
         }
     }
     
@@ -189,6 +206,11 @@ pre code {
         max-width: 680px;
         margin: 0 auto;
         margin-bottom: 30px;
+        text-shadow:
+            -1px -1px 0 @color,
+             1px -1px 0 @color,
+            -1px  1px 0 @color,
+             1px  1px 0 @color;  
     }
     
     .btns {
