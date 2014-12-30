@@ -1,0 +1,1 @@
+We believe God loves everyone and that one of the ways in which He can demonstrate that love is through His power to heal.
