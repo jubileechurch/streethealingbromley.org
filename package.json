@@ -10,6 +10,7 @@
     "grunt": "~0.4.5",
     "grunt-aws-s3": "^0.9.4",
     "grunt-cli": "^0.1.13",
+    "grunt-responsive-images": "^0.1.4",
     "grunt-wintersmith": "0.0.2",
     "wintersmith": "^2.1.0",
     "wintersmith-less": "^0.2.3",

@@ -2,6 +2,20 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
 
+    responsive_images: {
+      options: {
+        engine: "im"
+      },
+      process: {
+        files: [{
+          expand: true,
+          cwd: 'contents',
+          src: ['images/**.{jpg,gif,png,JPG}'],
+          dest: 'contents/gen'
+        }]
+      },
+    },
+
     wintersmith: {
       build: {
         options: {
@@ -39,4 +53,5 @@ module.exports = function(grunt) {
   // Load NPM Task
   grunt.loadNpmTasks('grunt-wintersmith');
   grunt.loadNpmTasks('grunt-aws-s3');
+  grunt.loadNpmTasks('grunt-responsive-images');
 };
