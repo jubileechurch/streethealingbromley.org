@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 id: about_us
 ---
 
