@@ -50,6 +50,10 @@ module.exports = function(grunt) {
 
   });
 
+  grunt.registerTask('preview', ['responsive_images:process', 'wintersmith:preview']);
+  grunt.registerTask('build', ['responsive_images:process', 'wintersmith:build']);
+  grunt.registerTask('deploy', ['aws_s3:deploy']); 
+
   // Load NPM Task
   grunt.loadNpmTasks('grunt-wintersmith');
   grunt.loadNpmTasks('grunt-aws-s3');
