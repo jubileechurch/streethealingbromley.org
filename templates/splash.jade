@@ -6,6 +6,6 @@ section#promo.promo.section.offset-header
     div.intro
       != contents.sections["splash.md"].html
     .btns
-      a.btn.btn-cta-secondary(href='#About') About
-      a.btn.btn-cta-primary(href='http://themes.3rdwavemedia.com/website-templates/Healing on the Streets Bromley-free-bootstrap-theme-developers/', target='_blank') Received Prayer?
+      a.scrollto.btn.btn-cta-secondary(href='#'+contents.sections["about_us.md"].metadata.id)= contents.sections["about_us.md"].title
+      a.scrollto.btn.btn-cta-primary(href='#'+contents.sections["received_prayer.md"].metadata.id)= contents.sections["received_prayer.md"].title
     ul.meta.list-inline
