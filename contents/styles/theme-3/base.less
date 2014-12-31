@@ -182,22 +182,14 @@ pre code {
         font-size: 98px;
         color: darken(@color, 30%);
         margin-top: 0;
-        text-shadow:
-            -1px -1px 0 lighten(@color, 10%),
-             1px -1px 0 lighten(@color, 10%),
-            -1px  1px 0 lighten(@color, 10%),
-             1px  1px 0 lighten(@color, 10%);  
+            .text-outline(lighten(@color, 20%), 2px);
         .highlight {
             color: @color-2;
         }
         .lowlight {
             font-size: 70%;
             color: @color-2;
-            text-shadow:
-                -1px -1px 0 lighten(@color-2, 10%),
-                 1px -1px 0 lighten(@color-2, 10%),
-                -1px  1px 0 lighten(@color-2, 10%),
-                 1px  1px 0 lighten(@color-2, 10%);  
+            .text-outline(lighten(@color, 10%), 2px);
         }
     }
     
@@ -206,11 +198,7 @@ pre code {
         max-width: 680px;
         margin: 0 auto;
         margin-bottom: 30px;
-        text-shadow:
-            -1px -1px 0 @color,
-             1px -1px 0 @color,
-            -1px  1px 0 @color,
-             1px  1px 0 @color;  
+        .text-outline(@color, 2px, 1px);  
     }
     
     .btns {
