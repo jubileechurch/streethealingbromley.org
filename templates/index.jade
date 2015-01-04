@@ -3,12 +3,13 @@ doctype html
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 include mixins.jade
+- var sections = _.sortBy(contents.sections, function(s){ return s.title })
+- var namedSections = _.filter(sections, function(s){ return s.title != "Untitled"})
 include head.jade
 body(data-spy='scroll')
   include navbar.jade
   include splash.jade
-  each section in contents.sections
-    if (section.title != "Untitled")
-      +section(section)
+  each section in namedSections
+    +section(section)
   include footer.jade
   include scripts.jade
