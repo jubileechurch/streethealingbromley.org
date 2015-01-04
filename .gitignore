@@ -2,3 +2,5 @@ build
 contents/gen
 aws_creds.json
 node_modules
+contents/images/.picasa.ini
+contents/images/.picasaoriginals
