@@ -15,3 +15,8 @@ Our story is that Jesus has fulfilled our deepest needs, has forgiven our wrong 
 
 So whether it is for you, a family member or a friend, we have a team who are willing to pray with you. This is for anyone who is sick, unwell or suffering from injury. It won't cost you anything except a moment of your time.
 
+#### Our Vision
+
+* is to get out of our buildings and to take the love of Jesus to where people are
+* to pray for people to be touched and healed by the love of God
+* to make a difference in our community by caring for people, seeing them healed and ultimately by reducing the burden on the NHS
