@@ -7,6 +7,8 @@ id: received_prayer
 
 If you are aware that you have been healed since we prayed with you it would be an honour to hear back from you. Not only will this encourage the team who have prayed with you but we would love to celebrate with you and we want to give God all the honour, because it is by His Power you have received your healing, not by any of us. This is why we do not accept any money or donations for what we do.
 
+![Image of people praying](/gen/images/IMG_0590-large.JPG)
+
 There are some very important things that you must consider now.
 
 Firstly, if you are on any medication you MUST STAY on it. No matter how you feel, you should not stop doing anything until your doctor or specialist has advised you.

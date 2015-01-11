@@ -15,6 +15,8 @@ The “Healing on the Streets” model has now been adopted by many churches acr
 
 From these teams have come many stories of people experiencing the love of Jesus, including reports of individuals being healed.
 
+![Image of people praying](/gen/images/IMG_0597-large.JPG)
+
 ### The “Healing on the Streets Bromley” story
 
 In June 2011 Mark Marx was in Bromley delivering “Healing on the Streets” training at a course run by DNA, a Christian gap year provider.
