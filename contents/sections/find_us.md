@@ -13,3 +13,6 @@ The Healing on the Streets team will be outside WH Smiths in Bromley High Street
 * Saturday 14 February
 * Saturday 7 March
 * Saturday 21 March
+
+![Image of people praying](/gen/images/IMG_0597-large.JPG)
+
