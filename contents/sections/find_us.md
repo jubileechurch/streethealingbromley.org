@@ -5,14 +5,17 @@ id: find_us
 
 ### Find Us
 
-The Healing on the Streets team will be outside WH Smiths in Bromley High Street between 10am and 11am on:
+There will be a Healing on the Streets team outside WH Smiths in Bromley High Street between 10am and 11am on:
 
-* Saturday 10 January
-* Saturday 24 January
-* Saturday 7 February
-* Saturday 14 February
-* Saturday 7 March
-* Saturday 21 March
+* Saturday 10 December 2016
+* Saturday 7 January 2017
+* Saturday 21 January 2017
+* Saturday 4 February 2017
+
+There will also be a Healing on the Streets team opposite Waitrose and Belmondos Cafe in Green Street Green between 10am and 11am on:
+
+* Saturday 17 December 2016
+* Saturday 21 January 2017
 
 ![Image of people praying](/gen/images/IMG_0597-large.JPG)
 
