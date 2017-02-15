@@ -26,6 +26,11 @@ id: find_church
 * Meeting Sunday 10:00am
 * <http://www.cornerstonecc.org.uk>
 
+#### [Green Street Green Baptist Church](http://www.gsgbaptist.org.uk)
+* 1 Worlds End Lane, Green St Green, Orpington
+* Meeting Sunday 10:30am & 6:30pm
+* <http://www.gsgbaptist.org.uk>
+
 #### [Jubilee Church](http://www.jubileechurch.co.uk)
 * Jubilee Centre, 157 Southlands Road, Bromley
 * Meeting Sunday 10:00am
