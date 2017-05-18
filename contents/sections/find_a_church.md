@@ -20,7 +20,6 @@ id: find_church
 * Meeting Sunday 9:00am, 10:45am & 6:00pm
 * <http://www.christchurchchislehurst.org>
 
-
 #### [Cornerstone Christian Centre](http://www.cornerstonecc.org.uk)
 * 21a The Mall, Bromley
 * Meeting Sunday 10:00am
@@ -31,7 +30,22 @@ id: find_church
 * Meeting Sunday 10:30am & 6:30pm
 * <http://www.gsgbaptist.org.uk>
 
+#### [Oak Community Church](http://www.oakchurch.co.uk)
+* 345 Chipperfield Rd, Orpington BR5 2LJ
+* Meeting Sunday 10:30am
+* <http://www.oakchurch.co.uk>
+
 #### [Jubilee Church](http://www.jubileechurch.co.uk)
 * Jubilee Centre, 157 Southlands Road, Bromley
 * Meeting Sunday 10:00am
 * <http://www.jubileechurch.co.uk>
+
+#### [River Church](http://www.river-church.co.uk/)
+* The Link, Midfield Way, Orpington, BR5 2QL
+* Meeting Sunday 11:00am
+* <http://www.river-church.co.uk/>
+        
+#### [St Barnabas Church](http://www.st-barnabas-cray.org.uk/)
+* Rushet Rd, Orpington BR5 2PU
+* Meeting Sunday 10:30am
+* <http://www.st-barnabas-cray.org.uk/>
