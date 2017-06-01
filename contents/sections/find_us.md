@@ -5,28 +5,37 @@ id: find_us
 
 ### Find Us
 
+**Central Bromley**
+
 There will be a Healing on the Streets team outside WH Smiths in Bromley High Street between 10am and 11am on:
 
 2017
-* Saturday 4 March
-* Saturday 1 April
-* Saturday 29 April
-* Saturday 27 May
 * Saturday 24 June
 * Saturday 29 July
 * Saturday 26 August
 * Saturday 23 September
 
-There will also be a Healing on the Streets team opposite Waitrose and Belmondos Cafe in Green Street Green between 10am and 11am on:
+**Green Street Green**
+
+There will be a Healing on the Streets team opposite Waitrose and Belmondos Cafe in Green Street Green between 10am and 11am on:
 
 2017
-* Saturday 18 February
-* Saturday 18 March
-* Saturday 15 April
-* Saturday 17 May
 * Saturday 20 June
 * Saturday 15 July
 * Saturday 19 August
 * Saturday 16 September
+
+**The Crays**
+
+There will be a Healing on the Streets team in Cotmandene Crescent between 11am - 12.30pm on: 
+
+2017
+* Saturday 17 June
+* Saturday 15 July
+* Saturday 19 August
+* Saturday 16 September
+* Saturday 21 October
+* Saturday 18 November
+* Saturday 16 December
 
 ![Image of people praying](/gen/images/IMG_0597-large.JPG)
