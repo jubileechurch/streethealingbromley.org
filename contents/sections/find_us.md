@@ -27,12 +27,12 @@ There will be a Healing on the Streets team opposite Waitrose and Belmondos Cafe
 2017
 * 16 September
 * 21 October
-* 18 November
-* 16 December
+* 4 November
+* 2 December
 
 2018
-* 20 January
-* 17 February
+* 6 January
+* 3 February
 
 
 **The Crays**
